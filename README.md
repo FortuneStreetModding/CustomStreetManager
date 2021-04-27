@@ -1,4 +1,11 @@
-# About CSMM
+# Deprecated
+
+This tool has been supersceeded by CSMM-QT: https://github.com/FortuneStreetModding/csmm-qt
+As such this repository has been archived.
+
+# Old Description:
+
+## About CSMM
 Program Description:
 CSMM is designed to facilitate the modding of Fortune Street (NTSC) or Boom Street (PAL). It allows easy bulk 
 swapping of custom maps, and includes options to patch the game to Wiimmfi and apply Deflaktor's ASM Hacks.
